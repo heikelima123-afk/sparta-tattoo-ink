@@ -1,0 +1,6 @@
+1. Extraia a pasta sparta-tattoo-site-v2.zip.
+2. Entre na pasta sparta-tattoo-site-v2.
+3. Mantenha index.html, styles.css, script.js e a pasta assets juntos.
+4. Abra index.html no Chrome.
+
+Se o Chrome continuar mostrando uma página sem estilo, verifique se styles.css está na mesma pasta do index.html.
